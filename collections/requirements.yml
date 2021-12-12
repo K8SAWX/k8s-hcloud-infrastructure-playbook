@@ -1,0 +1,4 @@
+collections:
+  - name: awx
+  - name: hetzner.hcloud
+

@@ -1,0 +1,4 @@
+dependencies:
+  - src: https://github.com/K8SAWX/k8s-hcloud-infrastructure-role.git
+    scm: git
+    version: master
